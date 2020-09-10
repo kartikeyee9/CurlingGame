@@ -1,10 +1,6 @@
-2406 Assignment 3
-
-
-
-Assignment is done by: 
-	1. Kartikeyee Gurav - 101081111; kartikeyeegurav@cmail.carleton.ca
-	2. Harleen Pabla - 101079985; harleenpabla@cmail.carleton.ca
+Contributors:  
+	1. Kartikeyee Gurav - kartikeyeegurav@cmail.carleton.ca
+	2. Harleen Pabla - harleenpabla@cmail.carleton.ca
 
 
 
