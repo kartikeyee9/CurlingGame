@@ -29,4 +29,4 @@ To restart the game:
 	2. Run the server again and copy the URL on the respective browsers again.
 
 
-** NOTE: This is an assignment project. The instructor holds the copyright of the contributions made for this project. 
+
